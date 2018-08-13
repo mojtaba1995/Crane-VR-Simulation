@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 079ca8cb105011e4abdcb0c6a4f0bcb1
+timeCreated: 1489256622
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Block:*U2
+    100002: Block:*U6
+    100004: Block:*U6_MeshPart0
+    100006: Block:*U6_MeshPart1
+    100008: Block:Body_CC 2800
+    100010: Block:Boom_CC 2800_20726
+    100012: Block:Crawler_CC 2800
+    100014: Block:Rigging-ID80
+    100016: Block:Rigging-ID80_MeshPart0
+    100018: Block:Rigging-ID80_MeshPart1
+    100020: Block:Rigging-ID80_MeshPart2
+    100022: Block:Rigging-ID80_MeshPart3
+    100024: Block:Superlift_CC 2800
+    100026: //RootNode
+    400000: Block:*U2
+    400002: Block:*U6
+    400004: Block:*U6_MeshPart0
+    400006: Block:*U6_MeshPart1
+    400008: Block:Body_CC 2800
+    400010: Block:Boom_CC 2800_20726
+    400012: Block:Crawler_CC 2800
+    400014: Block:Rigging-ID80
+    400016: Block:Rigging-ID80_MeshPart0
+    400018: Block:Rigging-ID80_MeshPart1
+    400020: Block:Rigging-ID80_MeshPart2
+    400022: Block:Rigging-ID80_MeshPart3
+    400024: Block:Superlift_CC 2800
+    400026: //RootNode
+    2300000: Block:*U2
+    2300002: Block:*U6_MeshPart0
+    2300004: Block:*U6_MeshPart1
+    2300006: Block:Body_CC 2800
+    2300008: Block:Boom_CC 2800_20726
+    2300010: Block:Crawler_CC 2800
+    2300012: Block:Rigging-ID80_MeshPart0
+    2300014: Block:Rigging-ID80_MeshPart1
+    2300016: Block:Rigging-ID80_MeshPart2
+    2300018: Block:Rigging-ID80_MeshPart3
+    2300020: Block:Superlift_CC 2800
+    3300000: Block:*U2
+    3300002: Block:*U6_MeshPart0
+    3300004: Block:*U6_MeshPart1
+    3300006: Block:Body_CC 2800
+    3300008: Block:Boom_CC 2800_20726
+    3300010: Block:Crawler_CC 2800
+    3300012: Block:Rigging-ID80_MeshPart0
+    3300014: Block:Rigging-ID80_MeshPart1
+    3300016: Block:Rigging-ID80_MeshPart2
+    3300018: Block:Rigging-ID80_MeshPart3
+    3300020: Block:Superlift_CC 2800
+    4300000: Block:Boom_CC 2800_20726
+    4300002: Block:Body_CC 2800
+    4300004: Block:Superlift_CC 2800
+    4300006: Block:Crawler_CC 2800
+    4300008: Block:*U2
+    4300010: Block:Rigging-ID80_MeshPart0
+    4300012: Block:Rigging-ID80_MeshPart1
+    4300014: Block:Rigging-ID80_MeshPart2
+    4300016: Block:Rigging-ID80_MeshPart3
+    4300018: Block:*U6_MeshPart0
+    4300020: Block:*U6_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
